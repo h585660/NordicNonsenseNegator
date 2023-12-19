@@ -13,7 +13,7 @@ So, I cooked up this nifty script that chews through the 'nettleverandor' CSV fo
 - **Data Decipherer**: Transforms the hieroglyphics in the 'nettleverandor' CSV files into actual human-readable information.
 - **Brute-Force Beauty**: It's not pretty, but it gets the job done. Like a bulldozer in a flower bed.
 - **Visualization Virtuoso**: Generates graphs that even your grandma could read (if she's into that sort of thing).
-- **Customizable**: For those who like to tinker around. You're an intermediate Python programmer? Go nuts! 🥜
+- **Customizable**: For those who like to tinker around. You're an intermediate Python programmer? Go nuts!🥜 Hardcoded CSV-data screams for your attention
 - **Absolutely Zero Effort in Aesthetics**: It's like a programmer's version of bed hair. Functional but messy.
 
 ## Getting Started 🚦
@@ -34,7 +34,7 @@ Found a bug? Got an idea? Want to make the code prettier? (Good luck with that.)
 
 ## License 📜
 
-This project is licensed under 'no-licence' - because even rebels have rules.
+This project is licensed under 'no-licence' - because even rebels have(no) rules.
 
 ## A Big, Sarcastic Thank You 👏
 
